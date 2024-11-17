@@ -1,6 +1,4 @@
 ## Hi there 👋
-<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
-
 <div>
 
 <img align="right" width="400" alt="Shimarin" src="https://pbs.twimg.com/media/E0UqVk3WYAMotyS.jpg"/>
